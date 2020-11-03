@@ -1,0 +1,7 @@
+EmployeeID FirstName LastName DOJ Salary
+12345,Amal,Babu,09/02/2018,45000.00
+34242,Emil,Issac,07/03/2019,35700.00
+56983,Cibin,Thomas,06/10/2020,23599.00
+23453,Basil,Varghese,03/08/2017,56000.00
+89727,Wilson,Zacharia,05/04/2016,67000.00
+45343,Gary,Kurian,02/05/2010,45800.00
